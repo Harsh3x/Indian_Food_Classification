@@ -1,5 +1,5 @@
 
-<h1 style="font-weight: bold">Indian Food Classification</h1>
+<h1>Indian Food Classification</h1>
 This project uses machine learning to classify Indian food items based on a dataset of images or textual data.
 It includes preprocessing, model training, and evaluation steps.
 
